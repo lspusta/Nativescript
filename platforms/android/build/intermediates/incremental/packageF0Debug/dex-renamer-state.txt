@@ -1,0 +1,4 @@
+#Sat Nov 11 18:18:22 EST 2017
+base.0=C\:\\nativescript\\Lucas1\\platforms\\android\\build\\intermediates\\transforms\\dex\\F0\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\nativescript\\Lucas1\\platforms\\android\\build\\intermediates\\transforms\\dex\\F0\\debug\\folders\\1000\\1f\\main\\classes.dex

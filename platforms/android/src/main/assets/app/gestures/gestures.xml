@@ -1,0 +1,36 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="onLoaded" navigatedTo="onNavigatedTo">
+
+
+<Page.actionBar >
+    <ActionBar  id="myActionBar" title="Star Ship" icon="" height="50">
+        <NavigationButton text="Back" icon="" tap="" />
+        <ActionBar.actionItems>
+            <ActionItem id="goBack" icon="" text="Back" tap="goBack" ios.position="left" />
+            <ActionItem id="lives" icon="" text="Lives" tap="" ios.position="left" />
+            <ActionItem id="lblNumOfLives" icon="" text="3" tap="" ios.position="right" />
+            <ActionItem id="score" icon="" text="Gamescore" tap="" ios.position="right" />
+            <ActionItem id="lblgamescore" icon="" text="0" tap="" ios.position="right" />
+        </ActionBar.actionItems>
+    </ActionBar>
+</Page.actionBar>
+
+<GridLayout rows="*" columns="*" style="background-image: url('https://c1.staticflickr.com/6/5298/5426701376_02fd2a9fa8_b.jpg');" >
+    <AbsoluteLayout>
+        <Label id="astroid1" top="0" left="10" textWrap="true" style="background-color: blue; border-radius:30px;" width="50" height="50" />
+        <Label id="astroid2" top="0" left="90" textWrap="true" style="background-color: blue; border-radius:30px;" width="50" height="50" />
+        <Label id="astroid3" top="0" left="150" textWrap="true" style="background-color: blue; border-radius:30px;" width="50" height="50" />
+        <Label id="astroid4" top="0" left="210" textWrap="true" style="background-color: blue; border-radius:30px;" width="50" height="50" />
+        <Label id="astroid5" top="0" left="270" textWrap="true" style="background-color: blue; border-radius:30px;" width="50" height="50" />
+        <!-- <Label id="lblBlock" text="" textWrap="true" style="background-color: #000" width="50" height="50" /> -->
+        <Image id="lblBlock" width="75" height="75"  src="https://www.shareicon.net/download/2016/10/29/848502_transport_512x512.png" stretch="fill" />
+        
+        
+    </AbsoluteLayout>
+   
+</GridLayout>
+    
+
+   
+
+
+</Page>

@@ -1,0 +1,7 @@
+{
+    "nativescript-sound": true,
+    "nativescript-theme-core": true,
+    "nativescript-vibrate": true,
+    "tns-core-modules": true,
+    "tns-core-modules-widgets": true
+}

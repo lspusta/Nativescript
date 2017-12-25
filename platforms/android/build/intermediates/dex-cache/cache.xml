@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\nativescript\Lucas1\platforms\android\build\intermediates\exploded-aar\nativescript-optimized\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="C:\nativescript\Lucas1\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-nativescript-optimized_660de579ec70048b7d5063684847b5156f40ead9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\nativescript\Lucas1\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\nativescript\Lucas1\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-25.3.1_515f4611f5e529e859e9600c80d0f3c3509e8651.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\nativescript\Lucas1\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\nativescript\Lucas1\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-25.3.1_bb569869cefc1d037e2a8c022593e04ef291e8f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\nativescript\Lucas1\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\nativescript\Lucas1\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-25.3.1_7148a783a07223b8ab77124e6011b18e627f8641.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\nativescript\Lucas1\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\nativescript\Lucas1\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-25.3.1_b663b0bc08842a913da79d6d62e592947b35b720.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\nativescript\Lucas1\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\nativescript\Lucas1\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-25.3.1_188a0ed16cd0c35a5dc83d6ee0ca6c5179bd536e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\nativescript\Lucas1\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-25.3.1_07cc1bdab6386cc71ca9e51c0b2d242e9420314e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\nativescript\Lucas1\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\nativescript\Lucas1\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-25.3.1_c6c1ad4176555537a60e8e5415ff08b1e88c0abc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\nativescript\Lucas1\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\nativescript\Lucas1\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-25.3.1_8e24b7c6936be815bc3385f7a7cef2e4419de7bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\nativescript\Lucas1\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="C:\nativescript\Lucas1\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_28c790e3de62c8c262b95d8aa31113db90b93f55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\nativescript\Lucas1\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\nativescript\Lucas1\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-25.3.1_04e74e058b9ced7d60c3a3ac642c75a2a4b5076a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\nativescript\Lucas1\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\nativescript\Lucas1\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-25.3.1_89bb305e0cca79a58a82a2deb46f8f4cff0b6ff7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\nativescript\Lucas1\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\nativescript\Lucas1\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-25.3.1_26a045a22b75004a915cc27f4011c9cd604afe71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\nativescript\Lucas1\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\nativescript\Lucas1\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-25.3.1_b16d38510847a339d3de6f99d0e81839bdb67191.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\nativescript\Lucas1\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\nativescript\Lucas1\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-25.3.1_57beb1438299a7330bc71ea52183fdad4c35699e.jar" />
+    </item>
+
+</items>

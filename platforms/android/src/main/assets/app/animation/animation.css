@@ -1,0 +1,11 @@
+.font{
+    font-size: 20px;
+    color: red;
+}
+.page{
+    background-color: black;
+}
+.action-bar{
+    background-color: green;
+    color: white;
+}

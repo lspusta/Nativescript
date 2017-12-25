@@ -1,0 +1,22 @@
+[
+    {
+        "name": "nativescript-sound",
+        "directory": "..\\..\\node_modules\\nativescript-sound"
+    },
+    {
+        "name": "nativescript-theme-core",
+        "directory": "..\\..\\node_modules\\nativescript-theme-core"
+    },
+    {
+        "name": "nativescript-vibrate",
+        "directory": "..\\..\\node_modules\\nativescript-vibrate"
+    },
+    {
+        "name": "tns-core-modules",
+        "directory": "..\\..\\node_modules\\tns-core-modules"
+    },
+    {
+        "name": "tns-core-modules-widgets",
+        "directory": "..\\..\\node_modules\\tns-core-modules-widgets"
+    }
+]
