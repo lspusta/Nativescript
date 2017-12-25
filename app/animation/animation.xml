@@ -1,0 +1,41 @@
+<Page class="page"
+    navigatingTo="onNavigatingTo"  
+    loaded="onPageLoaded"
+    xmlns="http://www.nativescript.org/tns.xsd">
+
+
+    <!--Add your page content here-->
+    <Page.actionBar>
+        <ActionBar class="action-bar" title="Merry Christimas" icon="">
+            <NavigationButton text="Back" icon="" tap="" />
+            <ActionBar.actionItems>
+                <ActionItem icon="" text="Left" tap="" ios.position="left" />
+                <ActionItem icon="" text="Spaceship" tap="gotoGestures" ios.position="right" />
+            </ActionBar.actionItems>
+        </ActionBar>
+    </Page.actionBar>
+<GridLayout rows="*" columns="*">
+  <Button id="btnStart" style="height: 100px;" row="0" col="0" text="Start" class="btn btn-primary" onTap="showhello"></Button>
+		
+    <StackLayout row="0" col="0" orientation="horizontal" >
+      
+        <Label id="lblChristimas1" class="font hide"  text="M" textWrap="true" />
+        <Label id="lblChristimas2" class="font hide"  text="E" textWrap="true" />
+        <Label id="lblChristimas3" class="font hide"  text="R" textWrap="true" />
+        <Label id="lblChristimas4" class="font hide"  text="R" textWrap="true" />
+        <Label id="lblChristimas5" class="font hide"  text="Y" textWrap="true" />
+        <Label id="lblChristimas6" class="font hide"  text="C" textWrap="true" />
+        <Label id="lblChristimas7" class="font hide"  text="H" textWrap="true" />
+        <Label id="lblChristimas8" class="font hide"   text="R" textWrap="true" />
+        <Label id="lblChristimas9" class="font hide"  text="I" textWrap="true" />
+        <Label id="lblChristimas10" class="font hide"  text="S" textWrap="true" />
+        <Label id="lblChristimas11" class="font hide"  text="T" textWrap="true" />
+        <Label id="lblChristimas12" class="font hide"  text="M" textWrap="true" />
+        <Label id="lblChristimas13" class="font hide"  text="A" textWrap="true" />
+        <Label id="lblChristimas14" class="font hide" text="S" textWrap="true" />
+    
+        
+    </StackLayout>
+</GridLayout>
+
+</Page>

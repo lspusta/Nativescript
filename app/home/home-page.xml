@@ -1,0 +1,13 @@
+<Page class="page"
+    navigatingTo="onNavigatingTo"  
+    xmlns="http://www.nativescript.org/tns.xsd">
+
+    <!--Add your page content here-->
+    <ActionBar class="action-bar">
+        <Label class="action-bar-title" text="Home"></Label>
+    </ActionBar>
+
+<StackLayout>
+    <Button text="Click Me" class="btn btn-primary" onTap="showhello"></Button>
+</StackLayout>
+</Page>
